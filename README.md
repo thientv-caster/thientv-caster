@@ -1,10 +1,5 @@
 <!-- Banner -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=2BBC8A&center=true&vCenter=true&width=700&lines=Truong+Van+Thien;Caster+Tech+Vietnam+/+Developer
-" />
-</p>
-
----
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7602C&vCenter=true&width=500&lines=Truong+Van+Thien;Caster+Tech+Vietnam+%2F+Developer)](https://git.io/typing-svg)
 
 # 👋 Hi, I’m Truong Van Thien
 
